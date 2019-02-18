@@ -1,2 +1,0 @@
-this is a random file
-this is going to take some time for me to get the hang of git
